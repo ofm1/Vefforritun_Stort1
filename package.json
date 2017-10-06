@@ -1,0 +1,22 @@
+{
+  "name": "gogn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofm1/Vefforritun_Stort1.git"
+  },
+  "author": "ofm1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ofm1/Vefforritun_Stort1/issues"
+  },
+  "homepage": "https://github.com/ofm1/Vefforritun_Stort1#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13"
+  }
+}
